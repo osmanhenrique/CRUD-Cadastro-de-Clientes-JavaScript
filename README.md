@@ -1,6 +1,6 @@
 # CRUD - Cadastro de Clientes - JavaScript
 
-<center> ## Tela de Cadastro
+## <center> Tela de Cadastro
 
 <img src="https://raw.githubusercontent.com/osmanhenrique/CRUD-Cadastro-de-Clientes-JavaScript/main/img/img01.jpg">
 
